@@ -1,5 +1,7 @@
 ## Jiabin Du (杜佳宾)
-
+School of Mathematical Sciences, Xiamen University
+No.422, Siming South Road, Xiamen, Fujian, China. 361005
+jiabindu@stu.xmu.edu.cn
 You can use the [editor on GitHub](https://github.com/jiabindu/jiabindu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
